@@ -25,7 +25,9 @@ SECRET_KEY = '3%-(ur7k0tltnhe362r=ryv!a$$o66+u1^pz$)i@ua0+3e&y-0'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'dynuchu.pythonanywhere.com',
+]
 
 
 # Application definition
